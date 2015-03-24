@@ -2,7 +2,9 @@
 	require 'station.php';
 	require 'track.php' ;
 	
-	echo new DutchRailwayGraph();
+	$instance = new DutchRailwayGraph();
+	
+	echo 'bla';
 
 	class DutchRailwayGraph
 	{
