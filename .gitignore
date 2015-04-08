@@ -3,3 +3,4 @@
 .settings
 *~
 db.sqlite3
+*.pyc
